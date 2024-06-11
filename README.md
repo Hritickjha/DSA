@@ -43,19 +43,6 @@ To clone and run this repository locally, follow these steps:
     cd DSA
     ```
 
-## Usage
-1. **Browse the Code:**
-   - Navigate through the directories to find the implementation of specific data structures or algorithms.
-   - Each directory contains code files along with comments and explanations.
-
-2. **Run the Code:**
-   - Open the code file in your preferred IDE or code editor.
-   - Follow the instructions provided in the comments to run the code.
-   - For example, to run a Python script:
-     ```sh
-     python filename.py
-     ```
-
 ## Contributing
 We welcome contributions to enhance the DSA repository. To contribute, please follow these steps:
 
