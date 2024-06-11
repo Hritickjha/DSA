@@ -57,7 +57,3 @@ For any inquiries or issues, please contact:
 
 - **Hritick Jha**
 - Email:jhahritick@gmail.com
-
----
-
-This repository and its contents are intended for educational purposes. Unauthorized use is prohibited.
